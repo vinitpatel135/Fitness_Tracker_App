@@ -4,8 +4,8 @@
 Fitness Tracker is a web application designed to help users log their workouts, track their progress, set fitness goals, and view detailed statistics. Admins can manage user accounts, create fitness programs, and analyze user activity. The application features user authentication and data visualization, providing a user-friendly experience for fitness enthusiasts.
 
 ## Live Demo
-- **Frontend**: ([https://quiz-app-nine-green.vercel.app/](https://fitness-tracker-app-nine.vercel.app/))
-- **Backend**: ([https://fitness-tracker-app-p8np.onrender.com](https://fitness-tracker-app-p8np.onrender.com))
+- **Frontend**: [https://quiz-app-nine-green.vercel.app/](https://fitness-tracker-app-nine.vercel.app/)
+- **Backend**: [https://fitness-tracker-app-p8np.onrender.com](https://fitness-tracker-app-p8np.onrender.com)
 
 # Admin Credentials for Live Frontend App
 - **Email**: admin@gmail.com
