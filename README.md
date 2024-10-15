@@ -25,6 +25,11 @@ Fitness Tracker is a web application designed to help users log their workouts, 
 - MongoDB instance (local or cloud-based)
 
 ### Clone the repository
-```bash
-git clone https://github.com/yourusername/fitness-tracker.git
-cd fitness-tracker
+  ```bash
+  git clone https://github.com/yourusername/fitness-tracker.git
+  cd fitness-tracker
+
+### Frontend Setup
+1. Install dependencies:
+  ```bash
+  npm install
